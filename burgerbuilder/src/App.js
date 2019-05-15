@@ -4,8 +4,9 @@ class  App extends Component {
   render (){
     return(
     <div>
-      <Layout/>
+      <Layout>
       <h1>Hello Ravi Sanapala</h1>
+      </Layout>
     </div>
   );
 }
